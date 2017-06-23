@@ -1,0 +1,12 @@
+
+Record#  EMP_ID EMP_NAME        SALARY DEPT_NO DEPT_NAME  JOB_TYPE   CITY      
+      1       1 AKSHAY            3500       4 SALES      MANAGER    JAIPUR    
+      2       2 SUNNY                3       4 MARKETING  JR. STAFF  JODHPUR   
+      3       3 BHARAT            3000       4 SALES      SR. STAFF  AJMER     
+      4       4 AYUSH KUMAR       1000       2 COMP. SCI. PEON       JAIPUR    
+      5       5 RAJAT KUMAR       5000       2 ADVERTISE  CLERK      PILANI    
+      6       6 DINESH KUMAR      6000       2 SALES      MANAGER    JAIPUR    
+      7       7 GAURAV KUMAR      7500       4 MARKETING  MANAGER    PALI      
+      8       8 BHAVESH KUMAR     1500       3 SALES      PEON       JAIPUR    
+      9       9 IRFAN BHATIA      2500       3 SALES      MANAGER    NAGAUR    
+     10      10 PREMSUKH          4000       3 MARKETING  MANAGER    JAIPUR    

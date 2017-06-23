@@ -1,0 +1,35 @@
+#include<iostream.h>
+#include<conio.h>
+class matrix
+{
+public:
+int m[3][3];
+void cmatrix()
+{
+cout<<"Enter the matrix :-\n";
+for(int i=0;i<3;i++)
+	{
+	for(int j=0;j<3;j++)
+		cin>>m[i][j];
+	}
+
+}
+void dmatrix()
+{
+cout<<"Result Matrix : -\n";
+for(int i=0;i<3;i++)
+	{
+	for(int j=0;j<3;j++)
+		cout<<"\t"<<m[i][j]l;
+	cout<<"\n";
+	}
+}
+};
+void main()
+{
+clrscr();
+matrix m;
+m.cmatrix();
+m.dmatrix();
+getch();
+}

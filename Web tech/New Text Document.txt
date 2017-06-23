@@ -1,0 +1,49 @@
+Assignment 7                                                              Date: 23rd Oct 10
+
+ 
+
+1.     Design a web page to show the use of following style sheets
+
+·        Inline Style
+
+·        Embedded Style
+
+·        External Style
+
+ 
+
+2.     Design a web page that shows the following 
+
+·        Changes the color and font-style when mouse is moved over the anchor text.
+
+·        The mouse pointer is changed to type ‘help’ when pointer is on text “help”
+
+·        Mouse pointer is changed to type ‘wait’ when the pointer is on text “please wait” 
+
+ 
+
+3.     Design a web page, which display “hello world” message and on mouse over the message should change to “welcome to lips”.
+
+ 
+
+4.     Design a web page to provide three option table, div and p and after selecting option the text should be displayed in selected option.
+
+ 
+
+5.     Design a web page that
+
+·        Shows two link when mouse is over the link then an image should be displayed and should disappears when moved out
+
+·        Shows thumbnails for two images and the enlarged image will be displayed on Mouse over.
+
+ 
+
+6.     Design web pages, which draw the table according to the no of rows and columns entered by user.
+
+ 
+
+7.     Design a web page that shows the use of the following style sheets
+
+·        Conflict style sheet
+
+·        User defined style sheet

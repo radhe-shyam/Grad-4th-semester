@@ -1,0 +1,45 @@
+
+class shape{
+            void area(){
+                         System.out.print("\narea=0");
+                         }
+            
+            }
+class tri extends shape{
+                         int h,b;
+                          tri(int H,int B){
+                                            h=H;
+                                            b=B;   
+                                           }
+                          void area(){
+                                       if((h||b)==0)
+                                       super.area();
+                                       else
+                                       System.out.print("\narea of triangle ="+(b*h*(1/2)));
+                                      }                           
+                            }
+class rect extends shape{
+                         int l,b;
+                         rect(int L,int B){
+                                            l=L;
+                                            b=B;
+                                           }
+                         void area(){
+                                     if ((l||b)==0)
+                                     super.area();
+                                     else
+                                     System.out.print("\narea of rectangle = "+(l*b));
+                                      }
+ 
+                         }
+class dis{
+ public static void main(String ar[])
+  {
+   tri t=new tri(5,3);
+   tri t1=new tri(0,0);
+   t.area();
+   t1.area();
+   rect r=t;
+   r.area();
+  }
+ } 

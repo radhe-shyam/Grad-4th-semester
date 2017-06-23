@@ -1,0 +1,23 @@
+<html>
+<head>
+<script language="JavaScript">
+function up()
+	{
+	document.f1.output.value=document.f1.input.value.toUpperCase();
+	}
+function low()
+	{
+	document.f1.output.value=document.f1.input.value.toLowerCase();
+	}
+</script>
+</head>
+<body>
+<form name=f1>
+Input string : <input type=text size=50 name=input><br><br><br>
+Output string : <input type=text size=50 name=output><br><br><br>
+<input type=button value="Upper case" onClick=up()>
+<input type=button value="Lower case"onClick=low()>
+<input type=button value="Revers" onClick=rev()>
+<input type=button value="Concatenate" onClick=con()>
+</body>
+</html>
